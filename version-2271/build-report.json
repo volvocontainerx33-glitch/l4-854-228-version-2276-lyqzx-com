@@ -1,0 +1,20 @@
+{
+  "movie_count": 2000,
+  "movie_detail_pages": 2000,
+  "html_pages": 2013,
+  "category_pages": 8,
+  "category_card_total": 2000,
+  "baidu_missing": [],
+  "image_files_in_zip": [],
+  "m3u8_source_count": 20,
+  "categories": {
+    "热门国产": 250,
+    "都市爱情": 250,
+    "悬疑剧场": 250,
+    "动作冒险": 250,
+    "喜剧合家欢": 250,
+    "科幻奇幻": 250,
+    "文艺剧情": 250,
+    "动画纪录": 250
+  }
+}
